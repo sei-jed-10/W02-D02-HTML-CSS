@@ -79,8 +79,8 @@ This DTD is equal to XHTML 1.0 Strict, but allows you to add modules (for exampl
 ![slides/008.jpg](slides/0029.jpg)
 ![slides/008.jpg](slides/0029a.jpg)
 ![slides/008.jpg](slides/0029b.jpg)
-![slides/008.jpg](slides/0026.jpg)
-![slides/008.jpg](slides/0030.jpg)
+
+
 ![slides/008.jpg](slides/0031.jpg)
 ![slides/008.jpg](slides/0032.jpg)
 ![slides/008.jpg](slides/0033.jpg)
