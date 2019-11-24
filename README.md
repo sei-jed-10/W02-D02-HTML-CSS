@@ -168,6 +168,16 @@ Block level elements in HTML:
 ![/slides/Class2Slides_pages-to-jpg.jpg](/slides/Class3Slides_page-0042.jpg)
 ![/slides/Class2Slides_pages-to-jpg.jpg](/slides/Class3Slides_page-0043.jpg)
 ![/slides/Class2Slides_pages-to-jpg.jpg](/slides/Class3Slides_page-0044.jpg)
+
+### What are Pseudo-classes?
+A pseudo-class is used to define a special state of an element.<br>
+
+For example, it can be used to:<br>
+
+Style an element when a user mouses over it<br>
+Style visited and unvisited links differently<br>
+Style an element when it gets focus<br>
+
 ![/slides/Class2Slides_pages-to-jpg.jpg](/slides/Class3Slides_page-0045.jpg)
 ![/slides/Class2Slides_pages-to-jpg.jpg](/slides/Class3Slides_page-0046.jpg)
 ![/slides/Class2Slides_pages-to-jpg.jpg](/slides/Class3Slides_page-0047.jpg)
