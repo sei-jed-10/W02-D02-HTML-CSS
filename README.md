@@ -82,6 +82,15 @@ This DTD is equal to XHTML 1.0 Strict, but allows you to add modules (for exampl
 
 
 ![slides/008.jpg](slides/0031.jpg)
+
+### Block-level Elements
+A block-level element always starts on a new line and takes up the full width available (stretches out to the left and right as far as it can).
+
+Block level elements in HTML:
+```html
+<address> <br> <article> <br> <aside> <br> <blockquote> <br> <canvas> <br> <dd> <br> <div> <br> <dl> <br> <dt> <br> <fieldset> <br> <figcaption> <br> <figure> <br> <footer> <br> <form> <br> <h1>-<h6> <br> <header> <br> <hr> <br> <li> <br> <main> <br> <nav> <br> <noscript> <br> <ol> <br> <p> <br> <pre> <br> <section> <br> <table> <br> <tfoot> <br> <ul> <br> <video> <br> 
+```
+
 ![slides/008.jpg](slides/0032.jpg)
 ![slides/008.jpg](slides/0033.jpg)
 ![slides/008.jpg](slides/0034.jpg)
