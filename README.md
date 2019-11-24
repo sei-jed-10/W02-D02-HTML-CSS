@@ -95,7 +95,6 @@ Block level elements in HTML:
 ![slides/008.jpg](slides/0033.jpg)
 ![slides/008.jpg](slides/0034.jpg)
 ![slides/008.jpg](slides/0035.jpg)
-![slides/008.jpg](slides/0036.jpg)
 
 ![slides/008.jpg](slides/0037.jpg)
 
