@@ -19,6 +19,58 @@ By the end of this, developers should be able to:
 ![slides/008.jpg](slides/0019.jpg)
 ![slides/008.jpg](slides/0020.jpg)
 ![slides/008.jpg](slides/0022.jpg)
+
+
+## Common DOCTYPE Declarations
+### HTML 5
+```html
+<!DOCTYPE html>
+```
+
+### HTML 4.01 Strict
+This DTD contains all HTML elements and attributes, but does NOT INCLUDE presentational or deprecated elements (like font). Framesets are not allowed.
+```html
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+```
+
+### HTML 4.01 Transitional
+This DTD contains all HTML elements and attributes, INCLUDING presentational and deprecated elements (like font). Framesets are not allowed.
+
+```html
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+```
+### HTML 4.01 Frameset
+This DTD is equal to HTML 4.01 Transitional, but allows the use of frameset content.
+
+```html
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Frameset//EN" "http://www.w3.org/TR/html4/frameset.dtd">
+```
+### XHTML 1.0 Strict
+This DTD contains all HTML elements and attributes, but does NOT INCLUDE presentational or deprecated elements (like font). Framesets are not allowed. The markup must also be written as well-formed XML.
+
+```html
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+```
+
+### XHTML 1.0 Transitional
+This DTD contains all HTML elements and attributes, INCLUDING presentational and deprecated elements (like font). Framesets are not allowed. The markup must also be written as well-formed XML.
+```html
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+```
+
+### XHTML 1.0 Frameset
+This DTD is equal to XHTML 1.0 Transitional, but allows the use of frameset content.
+```html
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Frameset//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-frameset.dtd">
+```
+
+### XHTML 1.1
+This DTD is equal to XHTML 1.0 Strict, but allows you to add modules (for example to provide Ruby support for East-Asian languages).
+
+```html
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+```
+
 ![slides/008.jpg](slides/0023.jpg)
 ![slides/008.jpg](slides/0025.jpg)
 ![slides/008.jpg](slides/0026.jpg)
