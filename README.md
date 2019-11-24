@@ -178,6 +178,14 @@ Style an element when a user mouses over it<br>
 Style visited and unvisited links differently<br>
 Style an element when it gets focus<br>
 
+### Syntax
+The syntax of pseudo-classes:
+```html
+selector:pseudo-class {
+  property:value;
+}
+```
+
 ![/slides/Class2Slides_pages-to-jpg.jpg](/slides/Class3Slides_page-0045.jpg)
 ![/slides/Class2Slides_pages-to-jpg.jpg](/slides/Class3Slides_page-0046.jpg)
 ![/slides/Class2Slides_pages-to-jpg.jpg](/slides/Class3Slides_page-0047.jpg)
